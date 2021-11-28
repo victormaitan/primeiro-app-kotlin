@@ -8,8 +8,8 @@ No app contém apenas um botão e um texto que é mostrado dinamicamente conform
 
 ## Imagens
 
-<img src="app/src/main/res/prints/1.png" border="1" alt="Print 1" max-width="300px"/>
-<img src="app/src/main/res/prints/2.png" border="1" alt="Print 1"/>
+<img src="app/src/main/res/prints/1.png" border="1" alt="Print 1" max-width="200px"/>
+<img src="app/src/main/res/prints/2.png" border="1" alt="Print 1" max-width="200px"/>
 
 ## Aprendizado
 
