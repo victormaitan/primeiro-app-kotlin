@@ -8,16 +8,8 @@ No app contém apenas um botão e um texto que é mostrado dinamicamente conform
 
 ## Imagens
 
-<p float="left">
-	<kbd>
-<img src="app/src/main/res/prints/1.png" border="1" alt="Print 1"/>	
-	</kbd>
-</p>
-<p float="right">
-	<kbd>
-<img src="app/src/main/res/prints/2.png" border="1" alt="Print 1"/>	
-	</kbd>
-</p>
+<img src="app/src/main/res/prints/1.png" border="1" alt="Print 1"/>
+<img src="app/src/main/res/prints/2.png" border="1" alt="Print 1"/>
 
 ## Aprendizado
 
