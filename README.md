@@ -55,7 +55,8 @@ Também foi possível aprender como adicionar um evento de click a um componente
 
 ## Tecnologias utilizadas
 
+<span>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-
+</span>
 Obrigado!
